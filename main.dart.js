@@ -22190,8 +22190,7 @@ XM:function XM(){},
 Cn:function Cn(){},
 wD:function wD(a,b){this.c=a
 this.a=b},
-C0:function C0(a,b){this.b=a
-this.a=b},
+C0:function C0(a){this.a=a},
 a1E:function a1E(){},
 Si:function Si(){},
 a6M:function a6M(){},
@@ -68866,24 +68865,23 @@ p.qH(0,o*0.3,0,n)
 return p},
 E0(a){return!0}}
 A.wD.prototype={
-H(a){var s=null,r=A.bY(a,s,t.w).w
-return A.kJ(B.cB,A.b([A.tm(s,B.wA,s,s,s,s),A.amu(0,A.CW(s,s,s,new A.C0(r.a.a<900,s))),this.c],t.F),B.bU)}}
+H(a){var s=null
+A.bY(a,s,t.w).toString
+return A.kJ(B.cB,A.b([A.tm(s,B.wA,s,s,s,s),A.amu(0,A.CW(s,s,s,new A.C0(s))),this.c],t.F),B.bU)}}
 A.C0.prototype={
-aE(a,b){var s,r,q,p,o=$.a6(),n=o.ba()
-n.sac(B.ya)
-n.sdW(B.bO)
-s=o.cJ()
-o=this.b
-r=b.b
-s.nJ(0,o?r*0.1:r*0.2)
+aE(a,b){var s,r,q,p=$.a6(),o=p.ba()
+o.sac(B.ya)
+o.sdW(B.bO)
+s=p.cJ()
+p=b.b
+r=p*0.2
+s.nJ(0,r)
 q=b.a
-p=o?r*0.04:r*0.05
-o=o?r*0.1:r*0.2
-s.qH(q*0.5,p,q,o)
+s.qH(q*0.5,p*0.05,q,r)
 s.dv(q,0)
 s.dv(0,0)
 s.a9()
-a.k5(s,n)},
+a.k5(s,o)},
 iI(a){return!1}}
 A.a1E.prototype={}
 A.Si.prototype={
@@ -73364,7 +73362,7 @@ B.IV=new A.xB(1)
 B.yh=new A.C(1,1,1,0,B.h)
 B.IU=new A.a5V(1,"double")
 B.Kj=new A.k(!0,B.yn,null,"monospace",null,null,48,B.k7,null,null,null,null,null,null,null,null,null,B.IV,B.yh,B.IU,null,"fallback style; consider putting your text in a Material",null,null,null,null)
-B.L9=new A.k(!0,null,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.L9=new A.k(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Ln=new A.k(!0,null,null,null,null,null,null,B.bg,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Lj=new A.k(!1,null,null,null,null,null,112,B.h1,null,null,null,B.n,null,null,null,null,null,null,null,null,null,"englishLike displayLarge 2014",null,null,null,null)
 B.Ja=new A.k(!1,null,null,null,null,null,56,B.o,null,null,null,B.n,null,null,null,null,null,null,null,null,null,"englishLike displayMedium 2014",null,null,null,null)
