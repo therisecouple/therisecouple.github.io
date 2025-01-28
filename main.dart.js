@@ -22190,7 +22190,8 @@ XM:function XM(){},
 Cn:function Cn(){},
 wD:function wD(a,b){this.c=a
 this.a=b},
-C0:function C0(a){this.a=a},
+C0:function C0(a,b){this.b=a
+this.a=b},
 a1E:function a1E(){},
 Si:function Si(){},
 a6M:function a6M(){},
@@ -68865,23 +68866,24 @@ p.qH(0,o*0.3,0,n)
 return p},
 E0(a){return!0}}
 A.wD.prototype={
-H(a){var s=null
-A.bY(a,s,t.w).toString
-return A.kJ(B.cB,A.b([A.tm(s,B.wA,s,s,s,s),A.amu(0,A.CW(s,s,s,new A.C0(s))),this.c],t.F),B.bU)}}
+H(a){var s=null,r=A.bY(a,s,t.w).w
+return A.kJ(B.cB,A.b([A.tm(s,B.wA,s,s,s,s),A.amu(0,A.CW(s,s,s,new A.C0(r.a.a<900,s))),this.c],t.F),B.bU)}}
 A.C0.prototype={
-aE(a,b){var s,r,q,p=$.a6(),o=p.ba()
-o.sac(B.ya)
-o.sdW(B.bO)
-s=p.cJ()
-p=b.b
-r=p*0.2
-s.nJ(0,r)
+aE(a,b){var s,r,q,p,o=$.a6(),n=o.ba()
+n.sac(B.ya)
+n.sdW(B.bO)
+s=o.cJ()
+o=this.b
+r=b.b
+s.nJ(0,o?r*0.15:r*0.2)
 q=b.a
-s.qH(q*0.5,p*0.05,q,r)
+p=o?r*0.045:r*0.05
+o=o?r*0.15:r*0.2
+s.qH(q*0.5,p,q,o)
 s.dv(q,0)
 s.dv(0,0)
 s.a9()
-a.k5(s,o)},
+a.k5(s,n)},
 iI(a){return!1}}
 A.a1E.prototype={}
 A.Si.prototype={
