@@ -68834,7 +68834,7 @@ A.a9g.prototype={
 $0(){A.pC(this.a).NR()},
 $S:0}
 A.oX.prototype={
-H(a){var s=null,r="https://raw.githubusercontent.com/yavuzceliker/sample-images/refs/heads/main/images/image-1.jpg"
+H(a){var s=null,r="https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/dishes/cake.png"
 return A.Es(!1,s,!0,A.kJ(B.cB,A.b([new A.f7(B.fd,s,s,A.akb(A.tm(s,new A.ea(B.j,s,s,s,A.b([new A.dy(5,B.iN,B.Ep.vZ(0.5),new A.q(0,4),5)],t.sq),s,B.bc),120,s,s,s),B.cM,new A.Cn()),s),A.a1u(0,new A.cG(B.jZ,A.fw(this.c.a,B.L9),s),s,s,0,s,s,s),A.a1u(0,new A.cG(B.jZ,new A.t2(new A.jL(s,r,s,1,s,s,s,s,B.Al),r,new A.XL(),new A.XM(),100,s),s),s,s,s,0,s,s)],t.F),B.bU),s,!0,s,s,B.x,B.x,s,s,s,s,s,new A.XN(this,a),s,s,B.x,s,s)}}
 A.XN.prototype={
 $0(){var s=A.alY(new A.XK(this.a),null,t.z)
