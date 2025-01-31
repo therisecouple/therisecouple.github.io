@@ -68851,15 +68851,19 @@ $1(a){var s=t.N
 return A.b([A.amq(A.fx("English",null),"eng",s),A.amq(A.fx("\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",null),"tel",s)],t.Do)},
 $S:473}
 A.a9d.prototype={
-$2(a,b){var s,r,q,p=null
-if(b.a===B.fS)return A.jP(A.agc(),p,p)
+$2(a,b){var s,r,q,p,o,n,m,l=null
+if(b.a===B.fS)return A.jP(A.agc(),l,l)
 else{s=b.c
-if(s!=null)return A.jP(A.fx("Error: "+A.l(s),p),p,p)
+if(s!=null)return A.jP(A.fx("Error: "+A.l(s),l),l,l)
 else{s=b.b
 if(s!=null){r=this.b.e==="eng"?s.b:s.c
-s=r.b
-q=A.V(s).h("a7<1,f>")
-return A.an8(new A.ct(B.k1,A.aki(A.b([A.fx("Ingredients:",A.ne(p,p,p,p,p,p,p,p,p,p,p,18,p,p,B.bh,p,p,!0,p,p,p,p,p,p,p,p)),A.pR(p,8,p),A.ali(new A.Hy(this.a.a,10,10,8),new A.a98(r),r.a.length,B.aG,new A.Fo(p),!0),A.pR(p,16,p),A.fx("Steps:",A.ne(p,p,p,p,p,p,p,p,p,p,p,18,p,p,B.bh,p,p,!0,p,p,p,p,p,p,p,p)),A.pR(p,8,p),A.aki(A.W(new A.a7(s,new A.a99(),q),!0,q.h("ai.E")),B.be,B.bi)],t.F),B.bB,B.bi),p),p)}else return A.jP(A.fx("No data available.",p),p,p)}}},
+s=A.fx("Ingredients:",A.ne(l,l,l,l,l,l,l,l,l,l,l,18,l,l,B.bh,l,l,!0,l,l,l,l,l,l,l,l))
+q=A.pR(l,8,l)
+p=this.a.a
+o=p===3?8:5.5
+n=r.b
+m=A.V(n).h("a7<1,f>")
+return A.an8(new A.ct(B.k1,A.aki(A.b([s,q,A.ali(new A.Hy(p,10,10,o),new A.a98(r),r.a.length,B.aG,new A.Fo(l),!0),A.pR(l,16,l),A.fx("Steps:",A.ne(l,l,l,l,l,l,l,l,l,l,l,18,l,l,B.bh,l,l,!0,l,l,l,l,l,l,l,l)),A.pR(l,8,l),A.aki(A.W(new A.a7(n,new A.a99(),m),!0,m.h("ai.E")),B.be,B.bi)],t.F),B.bB,B.bi),l),l)}else return A.jP(A.fx("No data available.",l),l,l)}}},
 $S:474}
 A.a98.prototype={
 $2(a,b){var s=null,r=this.a.a[b]
