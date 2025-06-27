@@ -84337,13 +84337,13 @@ n=o.Q
 m=t.D
 r=A.hS(A.nG(A.b([A.nI(q,B.C,l,new A.e9(n==null?o.y:n,l,l,p,l,l,B.b6),k,l,l,r)],m),B.b8,B.em,B.bQ),l,l)
 k=s?350:j*0.75
-k=A.en(new A.bF(B.fj,A.nG(A.b([B.RN,B.hu,B.RS],m),B.bJ,B.em,B.bQ),l),l,k)
+k=A.en(new A.bF(B.fj,A.nG(A.b([B.RN,B.hu,B.RQ],m),B.bJ,B.em,B.bQ),l),l,k)
 q=s?350:j*0.75
 p=A.fz(30)
 o=A.X(a).ax
 n=o.Q
 o=n==null?o.y:n
-return A.atd(A.nG(A.b([B.MI,B.RQ,r,B.hu,k,B.hu,A.en(new A.bF(B.fj,A.nG(A.b([B.RO,B.hu,A.hw(B.Z,A.b([A.nI(new A.bF(B.mh,A.qw(new A.aks(),B.zQ,l,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/frame.jpeg",new A.akt()),l),B.C,l,new A.e9(o,l,l,p,l,l,B.b6),450,l,l,1/0),A.en(A.qK(A.fz(30),A.qw(new A.aku(),B.dF,l,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/qr.jpeg",new A.akv())),250,250)],m),B.E,B.bx)],m),B.bJ,B.em,B.bQ),l),l,q)],m),B.b8,B.em,B.bQ),l)},
+return A.atd(A.nG(A.b([B.MI,B.RR,r,B.hu,k,B.hu,A.en(new A.bF(B.fj,A.nG(A.b([B.RO,B.hu,A.hw(B.Z,A.b([A.nI(new A.bF(B.mh,A.qw(new A.aks(),B.zQ,l,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/frame.jpeg",new A.akt()),l),B.C,l,new A.e9(o,l,l,p,l,l,B.b6),450,l,l,1/0),A.en(A.qK(A.fz(30),A.qw(new A.aku(),B.dF,l,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/qr.jpeg",new A.akv())),250,250)],m),B.E,B.bx)],m),B.bJ,B.em,B.bQ),l),l,q)],m),B.b8,B.em,B.bQ),l)},
 a2u(){var s=null
 return new A.bF(B.fk,new A.wr(!0,this.d,B.EO,A.b([A.qK(A.fz(30),A.qw(new A.akk(),B.dF,s,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/carousel/sweet-dosa.jpg",new A.akl())),A.qK(A.fz(30),A.qw(new A.akm(),B.dF,s,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/carousel/chicken-keema.jpg",new A.akn())),A.qK(A.fz(30),A.qw(new A.ako(),B.dF,s,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/carousel/cake.jpg",new A.akp())),A.qK(A.fz(30),A.qw(new A.akq(),B.dF,s,"https://raw.githubusercontent.com/therisecouple/risecoupleassets/refs/heads/main/home/carousel/biryani.jpg",new A.akr()))],t.D),s),s)}}
 A.akw.prototype={
@@ -84443,7 +84443,7 @@ n=r}else n=p
 s=A.qK(o,A.YZ(A.avt(n,new A.ea(new A.aj2(),p),s),B.E))
 o=q.d
 n=o===1?new A.r_(q.r,p):q.x[o]
-return A.ayz(new A.zE(new A.bF(B.mg,s,p),new A.D(1/0,56),p),n,new A.Ks(A.b([B.Js,A.axH(B.DY,B.RR),A.axH(B.DX,B.RP)],t.D),o,q.gaaL(),p),!0)}}
+return A.ayz(new A.zE(new A.bF(B.mg,s,p),new A.D(1/0,56),p),n,new A.Ks(A.b([B.Js,A.axH(B.DY,B.RS),A.axH(B.DX,B.RP)],t.D),o,q.gaaL(),p),!0)}}
 A.aiX.prototype={
 $0(){var s=this.a
 s.d=this.b
@@ -89967,11 +89967,11 @@ B.RM=new A.dy(B.PC,B.OG,B.PD,B.Q7,B.Oi,B.Oq,B.OY,B.PY,B.P9,B.QA,B.NL,B.O0,B.Qu,B
 B.RN=new A.fY("About Us",null,B.kr,null,null,null,null,null,null)
 B.RO=new A.fY("Follow Us",null,B.kr,null,null,null,null,null,null)
 B.RP=new A.fY("Dishes",null,null,null,null,null,null,null,null)
-B.Oo=new A.o(!0,null,null,null,null,null,40,B.bL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RQ=new A.fY("The Rise Couple",null,B.Oo,null,null,null,null,null,null)
-B.RR=new A.fY("Home",null,null,null,null,null,null,null,null)
 B.PI=new A.o(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.RS=new A.fY("We are a couple who loves to cook and share our culinary adventures. Our recipes are inspired by our travels and experiences, and we hope to bring joy to your kitchen.",null,B.PI,null,null,null,null,null,null)
+B.RQ=new A.fY("We are a couple who loves to cook and share our culinary adventures. Our recipes are inspired by our experiences, and we hope to bring joy to your kitchen.",null,B.PI,null,null,null,null,null,null)
+B.Oo=new A.o(!0,null,null,null,null,null,40,B.bL,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.RR=new A.fY("The Rise Couple",null,B.Oo,null,null,null,null,null,null)
+B.RS=new A.fY("Home",null,null,null,null,null,null,null,null)
 B.UX=new A.afq(0,"system")
 B.J1=new A.i(0.056,0.024)
 B.Jf=new A.i(0.108,0.3085)
